@@ -1,4 +1,6 @@
 module.exports = {
+  pathPrefix: `/walz.alexanderboenninger`,
+
   __experimentalThemes: [
     [
       "gatsby-theme-signalwerk",

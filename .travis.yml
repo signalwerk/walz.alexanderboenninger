@@ -1,0 +1,13 @@
+language: node_js
+node_js: stable
+install:
+  - yarn
+script:
+  - yarn --cwd './sites/blog/' build
+deploy:
+  provider: pages
+  local-dir: ./sites/blog/build
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  on:
+    branch: master

@@ -5,6 +5,7 @@
   "author": "Stefan Huber <sh@signalwerk.ch>",
   "license": "MIT",
   "scripts": {
+    "build": "gatsby build --prefix-paths",
     "develop": "gatsby develop"
   },
   "dependencies": {
