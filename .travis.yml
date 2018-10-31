@@ -6,7 +6,7 @@ script:
   - yarn --cwd './sites/blog/' build
 deploy:
   provider: pages
-  local-dir: ./sites/blog/build
+  local-dir: ./sites/blog/public
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   on:
