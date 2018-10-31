@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-examples",
+  "name": "walz.alexanderboenninger",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Stefan Huber <sh@signalwerk.ch>",
@@ -7,6 +7,6 @@
   "private": true,
   "workspaces": [
     "themes/*",
-    "pages/*"
+    "sites/*"
   ]
 }
