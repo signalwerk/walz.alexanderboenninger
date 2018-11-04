@@ -9,3 +9,4 @@
 
 ## Freizeit
 * Bleisatz-Werkstatt – Rudolf Barmettler
+* [ensemble für neue musik zürich](http://www.ensemble.ch/)
