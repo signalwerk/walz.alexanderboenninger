@@ -1,6 +1,7 @@
 # Walz – Alexander Bönninger
 
 ## Mögliche Projekte
+* Zwergenritter
 * Publikation «About the Grid»
 * ~~Website für [Brogle GmbH](http://www.broglegmbh.ch/)~~
 * the printer's terms → screendesign & blog
@@ -8,3 +9,4 @@
 
 ## Freizeit
 * Bleisatz-Werkstatt – Rudolf Barmettler
+* [ensemble für neue musik zürich](http://www.ensemble.ch/)
