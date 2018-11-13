@@ -4,7 +4,7 @@ author: "Stefan Huber"
 date: "2018-11-13"
 layout: post
 draft: false
-path: "/posts/full-slug/"
+path: "/posts/wandergesellen-in-der-schweiz/"
 tags:
   - "TagOne"
   - "TagTwo"

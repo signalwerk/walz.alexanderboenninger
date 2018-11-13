@@ -4,7 +4,7 @@ author: "Stefan Huber"
 date: "2018-10-31"
 layout: post
 draft: false
-path: "/posts/full-slug/"
+path: "/posts/blog-setup/"
 tags:
   - "TagOne"
   - "TagTwo"

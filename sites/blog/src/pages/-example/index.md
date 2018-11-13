@@ -4,7 +4,7 @@ author: "Stefan Huber"
 date: "2017-11-11"
 layout: post
 draft: true
-path: "/posts/full-slug/"
+path: "/posts/example/"
 tags:
   - "TagOne"
   - "TagTwo"
