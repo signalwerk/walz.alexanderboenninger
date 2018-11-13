@@ -5,6 +5,11 @@
   "author": "Stefan Huber <sh@signalwerk.ch>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "build": "yarn workspace walz.alexanderboenninger.blog build",
+    "start": "yarn develop",
+    "develop": "yarn workspace walz.alexanderboenninger.blog develop"
+  },
   "workspaces": [
     "themes/*",
     "sites/*"
