@@ -16,3 +16,4 @@ description: "bla bla bla... "
 Alex ist heute in Zürich angekommen. Das Auto haben wir noch nicht so richtig parkieren können, aber da finden wir auch noch was. Aber seine Pflanze und sein Arbeitsplatz ist parat. Montags geht´s los #spuckpalme
 
 
+![spuckpalme](./IMG_9907.JPG)
