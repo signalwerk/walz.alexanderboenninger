@@ -2,9 +2,9 @@
 
 ## Mögliche Projekte
 * Zwergenritter → screendesign &  flyer
-* Publikation [«Grids and Modules»](https://github.com/signalwerk/grids-and-modules)
 * the printer's terms → screendesign & blog
 * Vortrag Schule
+* Publikation [«Grids and Modules»](https://github.com/signalwerk/grids-and-modules)
 * ~~Website für [Brogle GmbH](http://www.broglegmbh.ch/)~~
 
 ## Freizeit
