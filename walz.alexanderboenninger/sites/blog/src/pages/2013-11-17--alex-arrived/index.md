@@ -13,6 +13,6 @@ description: "bla bla bla... "
 
 
 ## Yay
-Alex ist heute in Zürich angekommen. Das Auto haben wir noch nicht so richtig parkieren können, aber da finden wir auch noch was. Aber seine Pflanze und sein Arbeitsplatz ist parat. #spuckpalme
+Alex ist heute in Zürich angekommen. Das Auto haben wir noch nicht so richtig parkieren können, aber da finden wir auch noch was. Aber seine Pflanze und sein Arbeitsplatz ist parat. Montags geht´s los #spuckpalme
 
 
