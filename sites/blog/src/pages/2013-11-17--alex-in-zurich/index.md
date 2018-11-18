@@ -32,6 +32,5 @@ Dinge die Zuerst interessieren?
 * Fahrrad → wie bewege ich mich in der Stadt?
 * WiFi@Home
 * Schlüssel für Zuhause
-* Ansprechpartner
-* Wo gibts einen Supermarkt
-* Wo gibts eine Prepaid-SIM
+* Wo gibts einen Supermarkt?
+* Wo gibts eine Prepaid-SIM?
