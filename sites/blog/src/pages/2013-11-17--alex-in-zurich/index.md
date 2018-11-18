@@ -28,7 +28,7 @@ Dinge die Zuerst interessieren;
 * WiFi und Strom → Internationale Stecker?
 * Schlüssel Arbeitsplatz
 
-### Live
+### Life
 * Fahrrad → wie bewege ich mich in der Stadt?
 * WiFi@Home
 * Schlüssel für Zuhause
