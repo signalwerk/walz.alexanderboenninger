@@ -20,7 +20,7 @@ Alex ist heute in Zürich angekommen. Das Auto haben wir noch nicht so richtig p
 
 
 ## First things first
-Dinge die Zuerst interessieren?
+Dinge die Zuerst interessieren;
 
 ### Work
 * Welche Arbeiten machen wir zusammen?
