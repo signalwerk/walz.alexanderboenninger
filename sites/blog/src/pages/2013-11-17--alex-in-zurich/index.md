@@ -19,16 +19,16 @@ Alex ist heute in Zürich angekommen. Das Auto haben wir noch nicht so richtig p
 ![spuckpalme](./img/IMG_9907_sh.jpg)
 
 
-### First things first
+## First things first
 Dinge die Zuerst interessieren?
 
-## Work
+### Work
 * Welche Arbeiten machen wir zusammen?
 * Wie ist die Gegenleistung/Kompensation?
 * WiFi und Strom → Internationale Stecker?
 * Schlüssel Arbeitsplatz
 
-## Live
+### Live
 * Fahrrad → wie bewege ich mich in der Stadt?
 * WiFi@Home
 * Schlüssel für Zuhause
