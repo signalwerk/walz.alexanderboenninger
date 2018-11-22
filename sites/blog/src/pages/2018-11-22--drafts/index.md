@@ -12,5 +12,8 @@ description: "bla bla bla... "
 ---
 
 
-## Draft
-Hallo Test Test
+## the printer's terms
+Heute haben wir meine Überlegungen zur Digitalisierung des nicht mehr aufgelegten "the printer's terms" von Rudolf Hostettler besprochen.
+
+![Skizzen](./img/IMG_9971.JPG)
+![Gestaltungsansatz in Sketch](./img/IMG_9973.JPG)
