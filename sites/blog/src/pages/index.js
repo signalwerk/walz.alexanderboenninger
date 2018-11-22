@@ -44,6 +44,7 @@ export const homeQuery = graphql`
             title
             author
             tags
+            description
           }
         }
       }
