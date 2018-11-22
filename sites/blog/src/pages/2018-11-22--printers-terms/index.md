@@ -1,5 +1,5 @@
 ---
-title: the printer's terms!
+title: the printer's terms! – wireframing
 author: "Stefan Huber & Alexander Bönninger"
 date: "2018-11-22"
 layout: post
