@@ -8,7 +8,7 @@ path: "/posts/blog-setup/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "bla bla bla... "
+description: "Damit allenfalls auch weitere Gesellen auf der Walz von Erfahrungen von bisherigen Personen profitieren können, muss ein kleines Log-Buch her..."
 ---
 
 

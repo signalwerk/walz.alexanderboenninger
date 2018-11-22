@@ -8,7 +8,8 @@ path: "/posts/alex-in-zurich/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "bla bla bla... "
+description: "Etwa fünf Monate nach dem ersten Kontakt mit Alex ist er nun in Zürich eingetroffen. Die kommenden Tage werden wir gemeinsam an diversen Projekten arbeiten und versuchen die Zeit hier in Zürich möglichst produktiv zu nutzen."
+comment: "1. Mail: 19.6.2018"
 ---
 
 

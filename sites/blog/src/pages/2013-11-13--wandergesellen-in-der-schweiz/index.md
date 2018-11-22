@@ -8,7 +8,7 @@ path: "/posts/wandergesellen-in-der-schweiz/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "bla bla bla... "
+description: "Die administrativen Hürden, um eine Person auf der Walz in der Schweiz zu melden sind überschaubar. Aber es ist wie immer; Irgendwann ist immer das erste Mal und es gibt ein paar Dinge zu beachten."
 comment: "quellensteuer@zuerich.ch | Yvonne Metelli | Mail – 14.11.2018 Tarifmitteilung Code A0N"
 ---
 
