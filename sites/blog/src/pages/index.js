@@ -1,7 +1,5 @@
 import  React from 'react'
-import { Link, graphql } from 'gatsby'
-import get from 'lodash/get'
-import Helmet from 'react-helmet'
+import { graphql } from 'gatsby'
 
 import Index from "gatsby-theme-signalwerk/src/pages";
 
