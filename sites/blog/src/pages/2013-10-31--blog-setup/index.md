@@ -26,4 +26,9 @@ Um das ganze technisch möglichst unkompliziert zu halten, habe ich [gatsby](htt
 ### Status
 Ob das System gerade eine neue Website erstellt kann man hier sehen;
 
+
+<div style="width: 6em;">
+
 [![Build Status](https://travis-ci.org/signalwerk/walz.alexanderboenninger.svg?branch=master)](https://travis-ci.org/signalwerk/walz.alexanderboenninger)
+
+</div>

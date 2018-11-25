@@ -1,9 +1,9 @@
 language: node_js
 node_js: stable
 install:
-  - yarn
+  - yarn install --frozen-lockfile
 script:
-  - yarn --cwd './sites/blog/' build
+  - yarn build
 deploy:
   provider: pages
   local-dir: ./sites/blog/public
