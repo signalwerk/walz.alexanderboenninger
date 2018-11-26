@@ -8,7 +8,7 @@ path: "/posts/printers-terms-wireframing/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Fachliteratur für Typografen und Drucker gibt es in viele Sprachen. Das Fachvokabular für eine Übersetzung dieser Bücher oder Artikel ist bis jetzt im Internet nur schwierig zu recherchieren."
+description: "Fachliteratur für Typografen und Drucker gibt es in viele Sprachen – Das Fachvokabular für eine Übersetzung dieser Bücher oder Artikel ist bis jetzt im Internet nur schwierig zu recherchieren."
 ---
 
 ## Der Blick von außen.
