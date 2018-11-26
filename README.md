@@ -1,5 +1,19 @@
 # Walz – Alexander Bönninger
 
+## Startup
+```
+cd {folder}
+
+yarn start
+
+```
+
+
+
+
+
+
+
 ## Mögliche Projekte
 * Zwergenritter → screendesign &  flyer
 * the printer's terms → screendesign & blog

@@ -8,11 +8,11 @@ path: "/posts/printers-terms-wireframing/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "bla bla bla... "
+description: "Fachliteratur für Typografen und Drucker gibt es in viele Sprachen. Das Fachvokabular für eine Übersetzung dieser Bücher oder Artikel ist bis jetzt im Internet nur schwierig zu recherchieren."
 ---
 
 ## Der Blick von außen.
-Stefan arbeitet schon einige Zeit an der Idee, das nur noch antiquarisch erhältliche Buch "the printer's terms" von Rudolf Hostettler zu digitalisieren.   
+Stefan arbeitet schon einige Zeit an der Idee, das nur noch antiquarisch erhältliche Buch "the printer's terms" von Rudolf Hostettler zu digitalisieren. Anders als bei den meisten Lexika, arbeitet dieses Werk in 5 Sprachen, nämlich Englisch, Deutsch, Französisch, Italienisch, und Niederländisch.
 Heute haben wir die skizzierten Überlegungen von Alex der letzten Tage besprochen und auf Umsetzbarkeit und Sinnhaftigkeit angeschaut.
 
 ![Skizzen](./img/IMG_9971_ab.jpg)
