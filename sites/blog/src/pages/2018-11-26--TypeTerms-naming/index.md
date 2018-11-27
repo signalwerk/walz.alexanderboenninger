@@ -1,5 +1,5 @@
 ---
-title: Auf der Suche zum TypeTerms.com
+title: Auf der Suche nach TypeTerms.com
 author: "Stefan Huber & Alexander Bönninger"
 date: "2018-11-26"
 layout: post
