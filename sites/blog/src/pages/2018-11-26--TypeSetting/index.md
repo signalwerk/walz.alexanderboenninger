@@ -19,7 +19,7 @@ Nun hatten wir uns auf einenen [Domain-Namen](../typeterms-naming/) geinigt, auf
 [Rudolf Barmettler](https://www.zhdk.ch/person/10417), der die Bleisatz-Werkstatt der [Schule für Gestatlung Zürich](https://sfgz.ch/) leitet, war so freundlich, uns einen Abend gemeinsam in der Werkstatt arbeiten zu lassen. Zudem ist er uns mit Rat zur Seite gesprungen. Die ersten zwei Stunden des Abends hatten wir Ideen und Konzepte zusammengetragen.
 
 
-
+<Gallery>
 
 ![pictures](./img/IMG_8849_sh.jpg)
 ![pictures](./img/IMG_8850_sh.jpg)
@@ -29,6 +29,7 @@ Nun hatten wir uns auf einenen [Domain-Namen](../typeterms-naming/) geinigt, auf
 ![pictures](./img/IMG_8859_sh.jpg)
 ![pictures](./img/IMG_8861_sh.jpg)
 
+</Gallery>
 
 
 ## Selektion
