@@ -1,7 +1,7 @@
 ---
 title: Besuch bei Hinderling Volkart
 author: "Alexander Bönninger"
-date: "2018-11-26"
+date: "2018-11-26 12:00"
 layout: post
 draft: false
 path: "/posts/hinderling-volkart/"
