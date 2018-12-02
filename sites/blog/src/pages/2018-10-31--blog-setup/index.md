@@ -10,7 +10,7 @@ tags:
   - "TagTwo"
 description: "Damit allenfalls auch weitere Gesellen auf der Walz von Erfahrungen von bisherigen Personen profitieren können, muss ein kleines Log-Buch her..."
 ---
-import Gallery from 'gatsby-theme-signalwerk/src/components/Div';
+import Div from 'gatsby-theme-signalwerk/src/components/Div';
 
 
 ## Idee
