@@ -1,7 +1,7 @@
 ---
 title: Auf der Suche nach TypeTerms.com
 author: "Stefan Huber & Alexander Bönninger"
-date: "2018-11-26 15:00"
+date: "2018-11-26T14:00:00.000Z"
 layout: post
 draft: false
 path: "/posts/typeterms-naming/"
