@@ -8,7 +8,7 @@ path: "/posts/typeterms-naming/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Heute hatten wir eine Besprechung, wie das Buch «the printer's terms» im 21. Jahrhundert heissen könnte. TypeTerms.com wurde darauf hin reserviert!"
+description: "Heute hatten wir eine Besprechung, wie das Buch «the printer's terms» im 21. Jahrhundert heissen könnte. TypeTerms.com wurde darauf hin reserviert!"
 ---
 
 Da wir gerade dabei sind das Buch «the printer's terms» von Rudolf Hostettler als Grundlage für eine neue Website zu adaptieren ([siehe Blogbost](../printers-terms-wireframing/)), brauchen wir einen Domainname. Welcher bloss?
