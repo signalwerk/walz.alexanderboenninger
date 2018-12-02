@@ -10,7 +10,7 @@ tags:
   - "TagTwo"
 description: "In der Bleisatz-Werkstatt der Schule für Gestatlung Zürich haben wir eine kleine Ankündigungskarte für TypeTerms.com produziert."
 ---
-
+import Gallery from 'gatsby-theme-signalwerk/src/components/Gallery';
 
 ## Entwürfe
 
