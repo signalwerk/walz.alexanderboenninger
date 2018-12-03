@@ -11,7 +11,7 @@ tags:
 description: "Um einwenig aus der Stadt zu entkommen und nebst der Arbeit auch die Berge zu geniessen, sind wir heute nach Celerina gefahren."
 ---
 
-Mit nur einmal umsteigen sind wir drei Stunden später in mitten der Berglandschaft von Celerina (nähe St. Gallen) ausgestiegen. Da schau her – Schnee!
+Mit nur einmal umsteigen sind wir drei Stunden später in mitten der Berglandschaft von Celerina (nähe St. Moritz) ausgestiegen. Da schau her – Schnee!
 
 
 ![celerina](./img/IMG_8872.jpg)
