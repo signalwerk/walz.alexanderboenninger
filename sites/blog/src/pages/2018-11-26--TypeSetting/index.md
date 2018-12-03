@@ -1,6 +1,6 @@
 ---
 title: Werbekarte im Bleisatz
-author: "Stefan Huber & Alexander Bönninger"
+author: "Stefan Huber"
 date: "2018-11-26T17:00:00.000Z"
 layout: post
 draft: false
