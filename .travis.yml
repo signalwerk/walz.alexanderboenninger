@@ -8,7 +8,7 @@ env:
   global:
   - ENCRYPTION_LABEL: "dd067b5f92cf"
   - COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
-  - DEPLOY_DIR: "sites/blog/public"
+  - DEPLOY_DIR: "./sites/blog/public"
   - SOURCE_BRANCH: "master"
   - TARGET_BRANCH: "gh-pages"
 branches:
