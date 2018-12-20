@@ -3,11 +3,14 @@ node_js: stable
 install:
   - yarn install --frozen-lockfile
 script:
-  - yarn build
-deploy:
-  provider: pages
-  local-dir: ./sites/blog/public
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  on:
-    branch: master
+  - bash ./travis/gh-pages.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "dd067b5f92cf"
+  - COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
+  - DEPLOY_DIR: "public"
+  - SOURCE_BRANCH: "master"
+  - TARGET_BRANCH: "gh-pages"
+branches:
+  only:
+  - master
