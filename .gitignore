@@ -2,3 +2,4 @@
 /sites/blog/public
 /sites/blog/node_modules
 /sites/blog/.cache
+travis/.ssh/id_rsa
