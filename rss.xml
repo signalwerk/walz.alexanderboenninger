@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 20 Dec 2018 13:49:04 GMT</lastBuildDate><item><title><![CDATA[Abreise]]></title><description><![CDATA[Alex hat die letzten zwei Wochen intensiv an der Adaption vom Buch «the printer’s terms» für das 21. Jahrhundert gearbeitet. Das neue…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/abreise/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/abreise/</guid><pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Alex hat die letzten zwei Wochen intensiv an der Adaption vom Buch «the printer’s terms» für das 21. Jahrhundert gearbeitet. Das neue TypeTerms.com soll eine Plattform werden, in der die Fachwörter der grafischen Branche in diversen Sprachen zur Verfügung stehen soll. Alex hat nun eine kurze Unterbrechung seiner Walz, aber schon im Januar hat er ein Angebot für einen &lt;a href=&quot;https://www.basedesign.com/work&quot;&gt;Arbeitsplatz&lt;/a&gt; in Brüssel.&lt;/p&gt;
+&lt;p&gt;Eine gute Weiterreise wünsche ich dir!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/4c42526c2422d83ce6aff00d03cbd014/8a534/IMG_8921.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGyK0BuuIixXr+bOlokUH//xAAdEAACAwACAwAAAAAAAAAAAAABAgADEgQTISIj/9oACAEBAAEFAu4uFinxpS3vXYMRqmLPecVGjAnJH0n/xAAVEQEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAwEBPwEp/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/AYOz/8QAIhAAAQIDCQAAAAAAAAAAAAAAAQACEBESICEjMUFCYaHh/9oACAEBAAY/AtoHKqcQrpKmXiLXtms+4BuoWIDVY//EAB0QAAIDAQEAAwAAAAAAAAAAAAERACExQVFhcfD/2gAIAQEAAT8hJ6gPU2WXHGDj9xWaDBxoKqj+2DZrfVjCwfn2HpcmYNZtZewAdghUaIJ//9oADAMBAAIAAwAAABAbETD/xAAYEQEAAwEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAwEBPxCpah1T/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxBPRRlkZT//xAAeEAEAAgICAwEAAAAAAAAAAAABABEhMVFxQWGBsf/aAAgBAQABPxAYDuQM+gdxGVa02CtFHrzBQ2uRZMLVuQaLeW4FZXTiuSFAwqAS/I7LaMsfUT2ys1HXOIPLUoT2mgD3AyBSteWaT//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Abreise&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/4c42526c2422d83ce6aff00d03cbd014/f3a32/IMG_8921.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/4c42526c2422d83ce6aff00d03cbd014/6ba01/IMG_8921.jpg 175w,
+/walz.alexanderboenninger/static/4c42526c2422d83ce6aff00d03cbd014/b8ff8/IMG_8921.jpg 350w,
+/walz.alexanderboenninger/static/4c42526c2422d83ce6aff00d03cbd014/f3a32/IMG_8921.jpg 700w,
+/walz.alexanderboenninger/static/4c42526c2422d83ce6aff00d03cbd014/61d28/IMG_8921.jpg 1050w,
+/walz.alexanderboenninger/static/4c42526c2422d83ce6aff00d03cbd014/be74e/IMG_8921.jpg 1400w,
+/walz.alexanderboenninger/static/4c42526c2422d83ce6aff00d03cbd014/bf62f/IMG_8921.jpg 2100w,
+/walz.alexanderboenninger/static/4c42526c2422d83ce6aff00d03cbd014/8a534/IMG_8921.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Arbeiten in Celerina]]></title><description><![CDATA[Mit nur einmal umsteigen sind wir drei Stunden später in mitten der Berglandschaft von Celerina (nähe St. Moritz) ausgestiegen. Da schau her…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/celerina/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/celerina/</guid><pubDate>Tue, 27 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Mit nur einmal umsteigen sind wir drei Stunden später in mitten der Berglandschaft von Celerina (nähe St. Moritz) ausgestiegen. Da schau her – Schnee!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/f9244a97483928a029b81eff84c4d7b4/8a534/IMG_8872.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIDAQQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAEsYqVJhNL6GOiKH//EAB8QAAEDAwUAAAAAAAAAAAAAAAEAAhIDESEEEyIyM//aAAgBAQABBQKWbhqm9SxxcibHdCD6blNpFXrpvUgX/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAIRAAAQIFBQEAAAAAAAAAAAAAAAEhAhESMnEQIjEzYZH/2gAIAQEABj8CtOFGq+DyLkGjkbkliEaA7KfBca//xAAdEAEAAwADAAMAAAAAAAAAAAABABEhMUFRYZHh/9oACAEBAAE/IbmhXVtZAH6RZxT4m/KK5Zpep09xuDebBOOBWkGr1gAg9RiVfYYbAFz/2gAMAwEAAgADAAAAEATZw//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/ECH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQIBAT8QRc//xAAeEAEAAwADAAMBAAAAAAAAAAABABEhMUFRYXGB4f/aAAgBAQABPxA0afSPJBBo7jU/WXBz40ge26pR+EHg84aP4igTrsK+qxIs0oWIK+rc0yznAnWdVsvFhhwPxkbRa0xgF4JPSI+MLR3U/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;celerina&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/f9244a97483928a029b81eff84c4d7b4/f3a32/IMG_8872.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/f9244a97483928a029b81eff84c4d7b4/6ba01/IMG_8872.jpg 175w,
+/walz.alexanderboenninger/static/f9244a97483928a029b81eff84c4d7b4/b8ff8/IMG_8872.jpg 350w,
+/walz.alexanderboenninger/static/f9244a97483928a029b81eff84c4d7b4/f3a32/IMG_8872.jpg 700w,
+/walz.alexanderboenninger/static/f9244a97483928a029b81eff84c4d7b4/61d28/IMG_8872.jpg 1050w,
+/walz.alexanderboenninger/static/f9244a97483928a029b81eff84c4d7b4/be74e/IMG_8872.jpg 1400w,
+/walz.alexanderboenninger/static/f9244a97483928a029b81eff84c4d7b4/bf62f/IMG_8872.jpg 2100w,
+/walz.alexanderboenninger/static/f9244a97483928a029b81eff84c4d7b4/8a534/IMG_8872.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/fa00a523a8c203512b0fd448ef9f054d/b75f4/IMG_8869.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHPuak2Q1Bj/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAEgMRE//aAAgBAQABBQJLdCwhY7yYrLxbVGn/xAAWEQEBAQAAAAAAAAAAAAAAAAARARD/2gAIAQMBAT8BgZ//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/AWxyP//EABwQAAIBBQEAAAAAAAAAAAAAAAABAhESITFBYf/aAAgBAQAGPwK6WKPpVOiOmN+sUbVg1E//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhMYFR/9oACAEBAAE/IVhVaOTSnHIuspfQh0+gVZDWPpVKr8P/2gAMAwEAAgADAAAAEG//AP/EABgRAAMBAQAAAAAAAAAAAAAAAAABESFR/9oACAEDAQE/EKw0Zw//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhUf/aAAgBAgEBPxC0ZkPT/8QAGxABAQACAwEAAAAAAAAAAAAAAREAMSFBUZH/2gAIAQEAAT8QMCMsFLzvCluo9JY+4JKaut4GUvbqdmLsNJw/Tg0YCRrP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;celerina&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/fa00a523a8c203512b0fd448ef9f054d/f3a32/IMG_8869.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/fa00a523a8c203512b0fd448ef9f054d/6ba01/IMG_8869.jpg 175w,
+/walz.alexanderboenninger/static/fa00a523a8c203512b0fd448ef9f054d/b8ff8/IMG_8869.jpg 350w,
+/walz.alexanderboenninger/static/fa00a523a8c203512b0fd448ef9f054d/f3a32/IMG_8869.jpg 700w,
+/walz.alexanderboenninger/static/fa00a523a8c203512b0fd448ef9f054d/61d28/IMG_8869.jpg 1050w,
+/walz.alexanderboenninger/static/fa00a523a8c203512b0fd448ef9f054d/be74e/IMG_8869.jpg 1400w,
+/walz.alexanderboenninger/static/fa00a523a8c203512b0fd448ef9f054d/bf62f/IMG_8869.jpg 2100w,
+/walz.alexanderboenninger/static/fa00a523a8c203512b0fd448ef9f054d/b75f4/IMG_8869.jpg 4032w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/bc0b26ac834315e44c1f65d7f95a3d22/8a534/IMG_8870.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAgADAQT/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAE69GmCsJSvKBNt4QP/xAAbEAADAAIDAAAAAAAAAAAAAAAAAQIDExASIv/aAAgBAQABBQIRqOrK8G/GNw3lmW1dJc//xAAYEQACAwAAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPwFFGx//xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQIf/aAAgBAgEBPwFwqOZ//8QAGxAAAQQDAAAAAAAAAAAAAAAAAAERIDICISL/2gAIAQEABj8Ch0rFjY+BVIf/xAAdEAACAQQDAAAAAAAAAAAAAAAAAREhQVGREDFx/9oACAEBAAE/IUJKghYr9EVnzXFm6JQrYvUnhkc1jYuP/9oADAMBAAIAAwAAABCE+3L/xAAYEQADAQEAAAAAAAAAAAAAAAAAARFBUf/aAAgBAwEBPxCnhXCis//EABgRAAMBAQAAAAAAAAAAAAAAAAABYSEx/9oACAECAQE/EGTrKDgw/8QAHxABAAMAAQQDAAAAAAAAAAAAAQARIWEQMUFxkaGx/9oACAEBAAE/EE9kuBY0Yo2rItQ0yqBdosWfRsGV9uU0HlS35mHa6eVxBgoOAfkRvekMn//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;celerina&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/bc0b26ac834315e44c1f65d7f95a3d22/f3a32/IMG_8870.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/bc0b26ac834315e44c1f65d7f95a3d22/6ba01/IMG_8870.jpg 175w,
+/walz.alexanderboenninger/static/bc0b26ac834315e44c1f65d7f95a3d22/b8ff8/IMG_8870.jpg 350w,
+/walz.alexanderboenninger/static/bc0b26ac834315e44c1f65d7f95a3d22/f3a32/IMG_8870.jpg 700w,
+/walz.alexanderboenninger/static/bc0b26ac834315e44c1f65d7f95a3d22/61d28/IMG_8870.jpg 1050w,
+/walz.alexanderboenninger/static/bc0b26ac834315e44c1f65d7f95a3d22/be74e/IMG_8870.jpg 1400w,
+/walz.alexanderboenninger/static/bc0b26ac834315e44c1f65d7f95a3d22/bf62f/IMG_8870.jpg 2100w,
+/walz.alexanderboenninger/static/bc0b26ac834315e44c1f65d7f95a3d22/8a534/IMG_8870.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Werbekarte im Bleisatz]]></title><description><![CDATA[import Gallery from ‘gatsby-theme-signalwerk/src/components/Gallery’; Entwürfe Nun hatten wir uns auf einenen  Domain-Namen  geinigt, auf…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/typesetting-typeterms/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/typesetting-typeterms/</guid><pubDate>Mon, 26 Nov 2018 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Gallery from ‘gatsby-theme-signalwerk/src/components/Gallery’;&lt;/p&gt;
+&lt;h2&gt;Entwürfe&lt;/h2&gt;
+&lt;p&gt;Nun hatten wir uns auf einenen &lt;a href=&quot;../typeterms-naming/&quot;&gt;Domain-Namen&lt;/a&gt; geinigt, auf dem die Online-Plattform rund um «the printer’s terms» publiziert werden soll. Eine kleine Karte für die Ankündigung der Website muss also her!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.zhdk.ch/person/10417&quot;&gt;Rudolf Barmettler&lt;/a&gt;, der die Bleisatz-Werkstatt der &lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestatlung Zürich&lt;/a&gt; leitet, war so freundlich, uns einen Abend gemeinsam in der Werkstatt arbeiten zu lassen. Zudem ist er uns mit Rat zur Seite gesprungen. Die ersten zwei Stunden des Abends hatten wir Ideen und Konzepte zusammengetragen.&lt;/p&gt;
+&lt;Gallery&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/36ae1a75dc2e55a2d27960f836492417/8a534/IMG_8849_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABuMYpTCnJkGg4Cf/EAB0QAQACAQUBAAAAAAAAAAAAAAEAAhEDEiEiMjH/2gAIAQEAAQUCA2oS/oeMy/1etWanpXBZi5n/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEhP//EABkQAQACAwAAAAAAAAAAAAAAAAEAECAhMv/aAAgBAQAGPwI1OSizL//EAB4QAAICAQUBAAAAAAAAAAAAAAABESFREDFBkaGx/9oACAEBAAE/IdgpYgFKUiCd8DTJ8TotBvJGWZIxpbP/2gAMAwEAAgADAAAAEATOMP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEBH/2gAIAQMBAT8QcS5f/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EIWKxr//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMXFRgaHR/9oACAEBAAE/ELNeZyfZaIgF+GVYJQIHUuwAkO4M0fsYcUxjArdHcAQhPohA4BRkE58zSJn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/36ae1a75dc2e55a2d27960f836492417/f3a32/IMG_8849_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/36ae1a75dc2e55a2d27960f836492417/6ba01/IMG_8849_sh.jpg 175w,
+/walz.alexanderboenninger/static/36ae1a75dc2e55a2d27960f836492417/b8ff8/IMG_8849_sh.jpg 350w,
+/walz.alexanderboenninger/static/36ae1a75dc2e55a2d27960f836492417/f3a32/IMG_8849_sh.jpg 700w,
+/walz.alexanderboenninger/static/36ae1a75dc2e55a2d27960f836492417/61d28/IMG_8849_sh.jpg 1050w,
+/walz.alexanderboenninger/static/36ae1a75dc2e55a2d27960f836492417/be74e/IMG_8849_sh.jpg 1400w,
+/walz.alexanderboenninger/static/36ae1a75dc2e55a2d27960f836492417/bf62f/IMG_8849_sh.jpg 2100w,
+/walz.alexanderboenninger/static/36ae1a75dc2e55a2d27960f836492417/8a534/IMG_8849_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/3d4ac08aecfaf4bb5598edac7d173565/8a534/IMG_8850_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAB6zQsUKVzSO6Wj//EABkQAAIDAQAAAAAAAAAAAAAAAAACARARIf/aAAgBAQABBQLpk0t7hDKaMRX/xAAVEQEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAwEBPwEp/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BCE//xAAVEAEBAAAAAAAAAAAAAAAAAAAgQf/aAAgBAQAGPwJw/wD/xAAfEAACAQIHAAAAAAAAAAAAAAAAASExQRARUWFxkaH/2gAIAQEAAT8hlQ2fTMaKDVdOBCRJdy8fQQecX//aAAwDAQACAAMAAAAQDOf8/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QWCf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/EEQg+f/EABoQAQADAQEBAAAAAAAAAAAAAAEAESExUYH/2gAIAQEAAT8QKbF7XQi3n4hcmzCC7VtzoXjcxZEgV2xihLz3WzCNfY2+wWp//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/3d4ac08aecfaf4bb5598edac7d173565/f3a32/IMG_8850_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/3d4ac08aecfaf4bb5598edac7d173565/6ba01/IMG_8850_sh.jpg 175w,
+/walz.alexanderboenninger/static/3d4ac08aecfaf4bb5598edac7d173565/b8ff8/IMG_8850_sh.jpg 350w,
+/walz.alexanderboenninger/static/3d4ac08aecfaf4bb5598edac7d173565/f3a32/IMG_8850_sh.jpg 700w,
+/walz.alexanderboenninger/static/3d4ac08aecfaf4bb5598edac7d173565/61d28/IMG_8850_sh.jpg 1050w,
+/walz.alexanderboenninger/static/3d4ac08aecfaf4bb5598edac7d173565/be74e/IMG_8850_sh.jpg 1400w,
+/walz.alexanderboenninger/static/3d4ac08aecfaf4bb5598edac7d173565/bf62f/IMG_8850_sh.jpg 2100w,
+/walz.alexanderboenninger/static/3d4ac08aecfaf4bb5598edac7d173565/8a534/IMG_8850_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/8957948875dc67a6312bae910e731849/8a534/IMG_8853_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB0M1Yyig1uaLrJln/xAAaEAABBQEAAAAAAAAAAAAAAAAQAAECESEx/9oACAEBAAEFAtVSEeCL5YdMP//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/AQhP/8QAFhAAAwAAAAAAAAAAAAAAAAAAADAx/9oACAEBAAY/AiL/AP/EABsQAAICAwEAAAAAAAAAAAAAAAABESEQIDFR/9oACAEBAAE/IbWkxewnTpiqxRB1guH/2gAMAwEAAgADAAAAEL8tDP/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EFiT/8QAFREBAQAAAAAAAAAAAAAAAAAAEAH/2gAIAQIBAT8QCj//xAAaEAEBAQADAQAAAAAAAAAAAAABABEhMVFB/9oACAEBAAE/EMPSPZFL2fHfWHAcyFY8t+sTs9EsLiruS4X/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/8957948875dc67a6312bae910e731849/f3a32/IMG_8853_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/8957948875dc67a6312bae910e731849/6ba01/IMG_8853_sh.jpg 175w,
+/walz.alexanderboenninger/static/8957948875dc67a6312bae910e731849/b8ff8/IMG_8853_sh.jpg 350w,
+/walz.alexanderboenninger/static/8957948875dc67a6312bae910e731849/f3a32/IMG_8853_sh.jpg 700w,
+/walz.alexanderboenninger/static/8957948875dc67a6312bae910e731849/61d28/IMG_8853_sh.jpg 1050w,
+/walz.alexanderboenninger/static/8957948875dc67a6312bae910e731849/be74e/IMG_8853_sh.jpg 1400w,
+/walz.alexanderboenninger/static/8957948875dc67a6312bae910e731849/bf62f/IMG_8853_sh.jpg 2100w,
+/walz.alexanderboenninger/static/8957948875dc67a6312bae910e731849/8a534/IMG_8853_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/4393316dec5c2f715abe01d6a3f4789b/8a534/IMG_8855_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdoXjGQDH8uR5QP/xAAbEAEAAgIDAAAAAAAAAAAAAAABAhAAERIiMv/aAAgBAQABBQINx4FR80PWNbcJNf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ASE//8QAGBAAAgMAAAAAAAAAAAAAAAAAARARIDH/2gAIAQEABj8Clhimr//EABoQAQEBAAMBAAAAAAAAAAAAAAEAERAxQWH/2gAIAQEAAT8hMEt9G1lHfMLeEvW29rb/2gAMAwEAAgADAAAAEO8Nfv/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EFiT/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxBDBp//xAAdEAEAAwEAAgMAAAAAAAAAAAABABEhQRAxYYGR/9oACAEBAAE/EBhl4Rs0/siS7MBeZPSrzvjIvkoUsuYQQfMFj94Kvc//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/4393316dec5c2f715abe01d6a3f4789b/f3a32/IMG_8855_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/4393316dec5c2f715abe01d6a3f4789b/6ba01/IMG_8855_sh.jpg 175w,
+/walz.alexanderboenninger/static/4393316dec5c2f715abe01d6a3f4789b/b8ff8/IMG_8855_sh.jpg 350w,
+/walz.alexanderboenninger/static/4393316dec5c2f715abe01d6a3f4789b/f3a32/IMG_8855_sh.jpg 700w,
+/walz.alexanderboenninger/static/4393316dec5c2f715abe01d6a3f4789b/61d28/IMG_8855_sh.jpg 1050w,
+/walz.alexanderboenninger/static/4393316dec5c2f715abe01d6a3f4789b/be74e/IMG_8855_sh.jpg 1400w,
+/walz.alexanderboenninger/static/4393316dec5c2f715abe01d6a3f4789b/bf62f/IMG_8855_sh.jpg 2100w,
+/walz.alexanderboenninger/static/4393316dec5c2f715abe01d6a3f4789b/8a534/IMG_8855_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/61bffc2ebf660371fb0849a1abf34e04/8a534/IMG_8856_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdStdFBWVOnlNGkUr//EABoQAAIDAQEAAAAAAAAAAAAAAAABAhASMSH/2gAIAQEAAQUC0bNEO+VBi5Sbr//EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAEDAQE/ASn/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEIM//EABcQAQEBAQAAAAAAAAAAAAAAABABIDH/2gAIAQEABj8Ca3HT/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERITFRkRD/2gAIAQEAAT8hcfS0hGi4IvDywsDbnJvOidH/2gAMAwEAAgADAAAAEE8O/P/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EFgn/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAECAQE/EEjb/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBYXGRwf/aAAgBAQABPxB1uCZZlKIdbIVZ9aJSJadTIOBgwh1SPDLP1RqZn//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/61bffc2ebf660371fb0849a1abf34e04/f3a32/IMG_8856_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/61bffc2ebf660371fb0849a1abf34e04/6ba01/IMG_8856_sh.jpg 175w,
+/walz.alexanderboenninger/static/61bffc2ebf660371fb0849a1abf34e04/b8ff8/IMG_8856_sh.jpg 350w,
+/walz.alexanderboenninger/static/61bffc2ebf660371fb0849a1abf34e04/f3a32/IMG_8856_sh.jpg 700w,
+/walz.alexanderboenninger/static/61bffc2ebf660371fb0849a1abf34e04/61d28/IMG_8856_sh.jpg 1050w,
+/walz.alexanderboenninger/static/61bffc2ebf660371fb0849a1abf34e04/be74e/IMG_8856_sh.jpg 1400w,
+/walz.alexanderboenninger/static/61bffc2ebf660371fb0849a1abf34e04/bf62f/IMG_8856_sh.jpg 2100w,
+/walz.alexanderboenninger/static/61bffc2ebf660371fb0849a1abf34e04/8a534/IMG_8856_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/06cbe34c66385460b28d406f5f64028b/8a534/IMG_8859_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECBAP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB1ubLMBXZ5kNkCf/EABsQAAICAwEAAAAAAAAAAAAAAAECABESMTID/9oACAEBAAEFAkAK4iPVpqPteAZ6dZEAMYTc/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BIT//xAAXEAEAAwAAAAAAAAAAAAAAAAAAITAx/9oACAEBAAY/AmIq/8QAHBAAAgICAwAAAAAAAAAAAAAAAAERIWGhMUFR/9oACAEBAAE/IbIpY0+iCioKLkZpOMkjImhSJ0I9jGls/9oADAMBAAIAAwAAABAXLjL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAEDAQE/EG7Jn//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxCFisa//8QAHhABAAMAAgIDAAAAAAAAAAAAAQARITGxUWGBkeH/2gAIAQEAAT8QFI2tsGezYBlCDH6t/s/Ooh4lWplKnyd7gBDmiAeVjWJFUcFEUU5+iaRNVP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/06cbe34c66385460b28d406f5f64028b/f3a32/IMG_8859_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/06cbe34c66385460b28d406f5f64028b/6ba01/IMG_8859_sh.jpg 175w,
+/walz.alexanderboenninger/static/06cbe34c66385460b28d406f5f64028b/b8ff8/IMG_8859_sh.jpg 350w,
+/walz.alexanderboenninger/static/06cbe34c66385460b28d406f5f64028b/f3a32/IMG_8859_sh.jpg 700w,
+/walz.alexanderboenninger/static/06cbe34c66385460b28d406f5f64028b/61d28/IMG_8859_sh.jpg 1050w,
+/walz.alexanderboenninger/static/06cbe34c66385460b28d406f5f64028b/be74e/IMG_8859_sh.jpg 1400w,
+/walz.alexanderboenninger/static/06cbe34c66385460b28d406f5f64028b/bf62f/IMG_8859_sh.jpg 2100w,
+/walz.alexanderboenninger/static/06cbe34c66385460b28d406f5f64028b/8a534/IMG_8859_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/616377356bf52a4aabc31c9f11898f69/8a534/IMG_8861_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB1tOtZRSLWydHgon/xAAbEAEAAgIDAAAAAAAAAAAAAAAAAhEBQRASIf/aAAgBAQABBQKHqsLQaQaW7y4//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BIM//xAAZEAACAwEAAAAAAAAAAAAAAAABEAARMSH/2gAIAQEABj8CNzEWZ16v/8QAGxABAAIDAQEAAAAAAAAAAAAAEQABEDFBIWH/2gAIAQEAAT8hrVwZfoa9cNZ6AOY+TG1gqSVAz//aAAwDAQACAAMAAAAQEN99/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAQEf/aAAgBAwEBPxBxLl//xAAXEQADAQAAAAAAAAAAAAAAAAAAEBEx/9oACAECAQE/EMEIL//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExUUFhcYGx/9oACAEBAAE/EK4KBUfhBbL4JaMyFgDUXpARXhDU7fTDCkBppDGoGNTZK9XKCWpOCC5n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/616377356bf52a4aabc31c9f11898f69/f3a32/IMG_8861_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/616377356bf52a4aabc31c9f11898f69/6ba01/IMG_8861_sh.jpg 175w,
+/walz.alexanderboenninger/static/616377356bf52a4aabc31c9f11898f69/b8ff8/IMG_8861_sh.jpg 350w,
+/walz.alexanderboenninger/static/616377356bf52a4aabc31c9f11898f69/f3a32/IMG_8861_sh.jpg 700w,
+/walz.alexanderboenninger/static/616377356bf52a4aabc31c9f11898f69/61d28/IMG_8861_sh.jpg 1050w,
+/walz.alexanderboenninger/static/616377356bf52a4aabc31c9f11898f69/be74e/IMG_8861_sh.jpg 1400w,
+/walz.alexanderboenninger/static/616377356bf52a4aabc31c9f11898f69/bf62f/IMG_8861_sh.jpg 2100w,
+/walz.alexanderboenninger/static/616377356bf52a4aabc31c9f11898f69/8a534/IMG_8861_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/Gallery&gt;
+&lt;h2&gt;Selektion&lt;/h2&gt;
+&lt;p&gt;Danach einigten wir uns auf einen Entwurf.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/6a96547c7ee2e8b28bdccacea3e29efb/8a534/IMG_8844_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBBAUC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHqGPzVFsM0pwa5nB//xAAdEAACAQQDAAAAAAAAAAAAAAACAwABBBEzEDEy/9oACAEBAAEFAs8Coio3dc+UamFlhsI4lgiBdyk//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AUyv/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERECBx/9oACAEBAAY/AsqmL0RURkb4/8QAHBABAAICAwEAAAAAAAAAAAAAAQARECExUaFB/9oACAEBAAE/IVxYV0Htj9mAfpCfefIKU6b0S3q76wWzhP/aAAwDAQACAAMAAAAQECMx/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Qqoj/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/EIJC4//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExsVFhwf/aAAgBAQABPxAjjkvX3E73VgypBVHxj3oNdSzTh7Rd9BSeAlJMoYbDBATQmJFSkLDWK9T/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/6a96547c7ee2e8b28bdccacea3e29efb/f3a32/IMG_8844_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/6a96547c7ee2e8b28bdccacea3e29efb/6ba01/IMG_8844_sh.jpg 175w,
+/walz.alexanderboenninger/static/6a96547c7ee2e8b28bdccacea3e29efb/b8ff8/IMG_8844_sh.jpg 350w,
+/walz.alexanderboenninger/static/6a96547c7ee2e8b28bdccacea3e29efb/f3a32/IMG_8844_sh.jpg 700w,
+/walz.alexanderboenninger/static/6a96547c7ee2e8b28bdccacea3e29efb/61d28/IMG_8844_sh.jpg 1050w,
+/walz.alexanderboenninger/static/6a96547c7ee2e8b28bdccacea3e29efb/be74e/IMG_8844_sh.jpg 1400w,
+/walz.alexanderboenninger/static/6a96547c7ee2e8b28bdccacea3e29efb/bf62f/IMG_8844_sh.jpg 2100w,
+/walz.alexanderboenninger/static/6a96547c7ee2e8b28bdccacea3e29efb/8a534/IMG_8844_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Maquette&lt;/h2&gt;
+&lt;p&gt;Aus einer gewachsten Schriftproben und schwarzen Blättern – für die Linien – klebten wir eine Maquette. Also ein geklebter Enwurf, der dem Stand und der Gestaltung des fertigen Produkts schon sehr glich.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/f2788949b80c60d716df69632699a7b1/8a534/IMG_8845_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAcUyrEheEFS7orkaH//EAB4QAQABBAIDAAAAAAAAAAAAAAECAAMEIxAREiEi/9oACAEBAAEFAu6WoW2Ye8i+fGMaw2yZTLZ4xDZx/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFREBAQAAAAAAAAAAAAAAAAAAEAH/2gAIAQIBAT8BKf/EAB0QAAECBwAAAAAAAAAAAAAAAAARgRASICExQYL/2gAIAQEABj8CgtjoxscclQSj/8QAHBAAAwADAAMAAAAAAAAAAAAAAAERITFBEHGh/9oACAEBAAE/IYhEj/UHUQvNIvQ+sZTW7gicHaxidGKh9wJ+P//aAAwDAQACAAMAAAAQ1z4w/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/EKrMR//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxDLJI6Wt//EABwQAQADAQADAQAAAAAAAAAAAAEAESExQYGR8P/aAAgBAQABPxBHC/ZeabjLFbUAUKWVWdjeHQQGUyh/jkDzlB7Zc8thN5h8icvRQfMyHFiNDk//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/f2788949b80c60d716df69632699a7b1/f3a32/IMG_8845_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/f2788949b80c60d716df69632699a7b1/6ba01/IMG_8845_sh.jpg 175w,
+/walz.alexanderboenninger/static/f2788949b80c60d716df69632699a7b1/b8ff8/IMG_8845_sh.jpg 350w,
+/walz.alexanderboenninger/static/f2788949b80c60d716df69632699a7b1/f3a32/IMG_8845_sh.jpg 700w,
+/walz.alexanderboenninger/static/f2788949b80c60d716df69632699a7b1/61d28/IMG_8845_sh.jpg 1050w,
+/walz.alexanderboenninger/static/f2788949b80c60d716df69632699a7b1/be74e/IMG_8845_sh.jpg 1400w,
+/walz.alexanderboenninger/static/f2788949b80c60d716df69632699a7b1/bf62f/IMG_8845_sh.jpg 2100w,
+/walz.alexanderboenninger/static/f2788949b80c60d716df69632699a7b1/8a534/IMG_8845_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Endproduckt&lt;/h2&gt;
+&lt;p&gt;Noch nicht geschnitten, aber fertig gedruckt liegen die Karten nun im Rack zum trocknen und nächste Woche können wir diese holen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/03eb63c32c22edf485824f7fe41cac15/8a534/IMG_8847_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQFBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAEsRXZckaRa0OemHCB//8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACAzIEEBETM//aAAgBAQABBQKNnYTA0BY1nUWLaTzXJQcdf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABsQAAEFAQEAAAAAAAAAAAAAAAABAhARcTEi/9oACAEBAAY/AqsX0sOwdkOwdkdOrH//xAAdEAEAAgICAwAAAAAAAAAAAAABABEQMSFRcZGh/9oACAEBAAE/ISVIoviMWgvU4jkta9sGT6GANI8MaU+7H//aAAwDAQACAAMAAAAQoCzN/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxB5CH//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/EEspT//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExsUFRof/aAAgBAQABPxAnTsF3sFbL0RtEtG1BGeAP2DgldUOJZ58dwJm71QMjqse0IlQE0WjKJ//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/03eb63c32c22edf485824f7fe41cac15/f3a32/IMG_8847_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/03eb63c32c22edf485824f7fe41cac15/6ba01/IMG_8847_sh.jpg 175w,
+/walz.alexanderboenninger/static/03eb63c32c22edf485824f7fe41cac15/b8ff8/IMG_8847_sh.jpg 350w,
+/walz.alexanderboenninger/static/03eb63c32c22edf485824f7fe41cac15/f3a32/IMG_8847_sh.jpg 700w,
+/walz.alexanderboenninger/static/03eb63c32c22edf485824f7fe41cac15/61d28/IMG_8847_sh.jpg 1050w,
+/walz.alexanderboenninger/static/03eb63c32c22edf485824f7fe41cac15/be74e/IMG_8847_sh.jpg 1400w,
+/walz.alexanderboenninger/static/03eb63c32c22edf485824f7fe41cac15/bf62f/IMG_8847_sh.jpg 2100w,
+/walz.alexanderboenninger/static/03eb63c32c22edf485824f7fe41cac15/8a534/IMG_8847_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Teamwork&lt;/h2&gt;
+&lt;p&gt;Wir waren zwar erst mitten in der Nacht zuhause, aber dennoch war es ein toller Abend, an dem wir in nur wenigen Stunden den Text, die Gestaltung und die Produktion besorgen konnten.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/ae91c724ae1c24cab74be52a23b97df8/269d9/IMG_8841_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwD/2gAMAwEAAhADEAAAAXsjwKsiMkKU60uScm//xAAcEAACAQUBAAAAAAAAAAAAAAABAgADEBESIUH/2gAIAQEAAQUChLQTihaphfudj7uDCcM1v//EABcRAQEBAQAAAAAAAAAAAAAAAAABEhH/2gAIAQMBAT8BsZdaf//EABcRAQEBAQAAAAAAAAAAAAAAAAASARH/2gAIAQIBAT8BdTiX/8QAHxAAAgIABwEAAAAAAAAAAAAAABEBAiAhMUFCUZGh/9oACAEBAAY/AtjuDOlfRIRp9E0TY4xg/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBcVGBkaH/2gAIAQEAAT8hzv8AMAodDqJrZ9ZZXl5i24Nbj8nxCplY53EoO9YiqzpjYWYaiFz/2gAMAwEAAgADAAAAEBwO/v/EABcRAAMBAAAAAAAAAAAAAAAAAAABEXH/2gAIAQMBAT8QhDQ3cLP/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFx/9oACAECAQE/EJXCQ1l//8QAHRABAQADAAIDAAAAAAAAAAAAAREAITFBsWFxof/aAAgBAQABPxBGgiRQVBxioLr4+FuANXlF+JktEdpOutmdEKqlmvK4lQuawOrguorAn37yjw2iPWJtx1W3CzJc0IAIcxiUz//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/ae91c724ae1c24cab74be52a23b97df8/f3a32/IMG_8841_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/ae91c724ae1c24cab74be52a23b97df8/6ba01/IMG_8841_sh.jpg 175w,
+/walz.alexanderboenninger/static/ae91c724ae1c24cab74be52a23b97df8/b8ff8/IMG_8841_sh.jpg 350w,
+/walz.alexanderboenninger/static/ae91c724ae1c24cab74be52a23b97df8/f3a32/IMG_8841_sh.jpg 700w,
+/walz.alexanderboenninger/static/ae91c724ae1c24cab74be52a23b97df8/61d28/IMG_8841_sh.jpg 1050w,
+/walz.alexanderboenninger/static/ae91c724ae1c24cab74be52a23b97df8/be74e/IMG_8841_sh.jpg 1400w,
+/walz.alexanderboenninger/static/ae91c724ae1c24cab74be52a23b97df8/bf62f/IMG_8841_sh.jpg 2100w,
+/walz.alexanderboenninger/static/ae91c724ae1c24cab74be52a23b97df8/269d9/IMG_8841_sh.jpg 2316w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Auf der Suche nach TypeTerms.com]]></title><description><![CDATA[Da wir gerade dabei sind das Buch «the printer’s terms» von Rudolf Hostettler als Grundlage für eine neue Website zu adaptieren ( siehe…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/typeterms-naming/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/typeterms-naming/</guid><pubDate>Mon, 26 Nov 2018 14:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Da wir gerade dabei sind das Buch «the printer’s terms» von Rudolf Hostettler als Grundlage für eine neue Website zu adaptieren (&lt;a href=&quot;../printers-terms-wireframing/&quot;&gt;siehe Blogbost&lt;/a&gt;), brauchen wir einen Domainname. Welcher bloss?&lt;/p&gt;
+&lt;h2&gt;Top Level Domain&lt;/h2&gt;
+&lt;p&gt;Die Top Level Domain (TLD) – also der hinterste Teil der Domain ist heute nicht mehr nur eine Indikation für ein Land (.ch, .de, …) oder eine Organisationsform (.org, .com, .gov, …) sondern heute ist das Angebot so Vielfälltig, dass die kreative Namensfindung einer Domain nicht nur auf den effektiven Name der Domain, sondern auch auf TLD auszuweiten ist.  &lt;/p&gt;
+&lt;p&gt;In der engeren Auswahl hatten wir folgende TLDs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;.ch&lt;/strong&gt; → brauchen wir wirklich ein Bezug zur Schweiz?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.com&lt;/strong&gt; → der Klassiker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.cc&lt;/strong&gt; → wird häufig für Creative Commons Inhalte verwendet&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.design&lt;/strong&gt; → eigentlich ganz hübsch, da es anzeigt um was es thematisch geht&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.press&lt;/strong&gt; → naja… vielleicht nicht mehr das Richtige&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Domain&lt;/h2&gt;
+&lt;p&gt;Folgende Kriterien hatten wir an die Domain angelegt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sollte einen Hinweis sein, was einem auf der Website erwartet&lt;/li&gt;
+&lt;li&gt;Sollte keine Berufsgruppe, die in diesem Bereich ein interesse haben könnte, ausschliessen.&lt;/li&gt;
+&lt;li&gt;Sollte visuell gut erfassbar sein&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;ein www oder kein www&lt;/h2&gt;
+&lt;p&gt;Ob edel oder nicht ist wohl eher eine Frage des Gemüt und es gibt weder Regel noch Empfehlung. Helfen kann das www, wenn die Leute sonsonst kaum eine Website (URL) erkennen und man damit unterstreichen möchte, dass es sich um eine Domain handelt. Wir hatten zum Beispiel über &lt;code class=&quot;language-text&quot;&gt;ter.ms&lt;/code&gt; nachgedacht (welche jedoch bereits besetzt ist) in solch einem Fall wäre &lt;code class=&quot;language-text&quot;&gt;www.ter.ms&lt;/code&gt; vielleicht besser verständlich.&lt;/p&gt;
+&lt;h2&gt;Shortlist&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.the-printers-terms.com&lt;/strong&gt;&lt;/del&gt; → Zu sehr ans Buch gebunden&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.terms.cc&lt;/strong&gt;&lt;/del&gt; → Viele leute sind mit der .cc TLD nicht vertraut&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.printers-terms.design&lt;/strong&gt;&lt;/del&gt; →  Das Wort «printers» schliesst allenfalls Typografen und Grafiker aus&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.printers-terms.ch&lt;/strong&gt;&lt;/del&gt; → Das Produkt muss keinen Bezug zur Schweiz behalten&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.terms.design&lt;/strong&gt;&lt;/del&gt; → Ganz gut, aber eine kürzere TLD als .design wäre vielleicht ganz gut.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.terms.press&lt;/strong&gt;&lt;/del&gt; → Press riecht wohl zu sehr nach Papier&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.ter.ms&lt;/strong&gt;&lt;/del&gt; → Cool aber gibt auch keinen Hinweis, was für Termen behandelt werden&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.designers-terms.ch&lt;/strong&gt;&lt;/del&gt; → Denkbar, aber geht’s noch kürzer?&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.typo-terms.ch&lt;/strong&gt;&lt;/del&gt; → Typo ist allenfalls zu stark mit Fokus auf gedruckte Schrift&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.letter-terms.ch&lt;/strong&gt;&lt;/del&gt; → Ungeeignet, da nicht nur der Buchstabe im Zentrum steht&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;book-terms.ch&lt;/strong&gt;&lt;/del&gt; → Die Termen sind auch über angrenzende Themen&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.typography-terms.ch&lt;/strong&gt;&lt;/del&gt; → Damit werden wiederum die Drucker ausgeschlossen&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.tranlation.design&lt;/strong&gt;&lt;/del&gt; → einen zu starken Fokus auf das reine Übersetzen&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.type-terms.ch&lt;/strong&gt;&lt;/del&gt; → Bindestrich wohl eher überflüssig&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;strong&gt;www.TypeTerms.com&lt;/strong&gt;&lt;/del&gt; → ohne www auch gut als Domain erkennbar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeTerms.com&lt;/strong&gt; → #yay den nehmen wir!&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Besuch bei Hinderling Volkart]]></title><description><![CDATA[Vielleicht der nächste Step? Meine Zeit bei Stefan ist im Vorhinein schon begrenzt gewesen und so machen wir uns beide schon gedanken wo ich…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/hinderling-volkart/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/hinderling-volkart/</guid><pubDate>Mon, 26 Nov 2018 11:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Vielleicht der nächste Step?&lt;/h2&gt;
+&lt;p&gt;Meine Zeit bei Stefan ist im Vorhinein schon begrenzt gewesen und so machen wir uns beide schon gedanken wo ich in den nächsten Wochen anheuern kann. Über &lt;a href=&quot;https://www.hinderlingvolkart.com/team/detail/Alex&quot;&gt;Alex J.&lt;/a&gt; sind wir auf die Idee gekommen, das ich auch bei &lt;a href=&quot;https://www.hinderlingvolkart.com&quot;&gt;Hinderling Volkart&lt;/a&gt; unterkommen könnte. Wir haben etwas zu Mittag besorgt und sind in dem riesigen züricher Büro eingekehrt. Ich habe mich bei Michael Volkart vorgestellt. Es bleibt spanned ob sie mich unterbringen können…&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/c7e9376b7bc10655a48090459814d110/6816a/hinderlingvolkart_1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAID/9oADAMBAAIQAxAAAAFR1Z3nrB2KQrw7CJlcH//EABsQAQEAAgMBAAAAAAAAAAAAAAECAAMEEBEy/9oACAEBAAEFAhSujwZuKydmsITAj2uPRUfcdf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPwEic//EAB8QAAIABQUAAAAAAAAAAAAAAAABAhARIXEgIjFRsf/aAAgBAQAGPwK83Xot4coiwKkKNiVM6P/EACAQAQACAAUFAAAAAAAAAAAAAAEAERAhMUGxUWFxgZH/2gAIAQEAAT8h6wB9haXTBe8dC2cxbJdbEAyqWr5iOZdieCNLDz1TQ9YDSf/aAAwDAQACAAMAAAAQq+Z8/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAEDAQE/EFjqaV03/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxBUqUYRWf/EABwQAAICAwEBAAAAAAAAAAAAAAERACExQZFR8P/aAAgBAQABPxAINkWNCfuQwCIVlGIY4lggNyahpIq/BtS00DTDgy6OARIhIq6HHWghQb9uYWjbphWJcJ//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Sofa&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/c7e9376b7bc10655a48090459814d110/f3a32/hinderlingvolkart_1.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/c7e9376b7bc10655a48090459814d110/6ba01/hinderlingvolkart_1.jpg 175w,
+/walz.alexanderboenninger/static/c7e9376b7bc10655a48090459814d110/b8ff8/hinderlingvolkart_1.jpg 350w,
+/walz.alexanderboenninger/static/c7e9376b7bc10655a48090459814d110/f3a32/hinderlingvolkart_1.jpg 700w,
+/walz.alexanderboenninger/static/c7e9376b7bc10655a48090459814d110/61d28/hinderlingvolkart_1.jpg 1050w,
+/walz.alexanderboenninger/static/c7e9376b7bc10655a48090459814d110/6816a/hinderlingvolkart_1.jpg 1125w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/e92a5061bba76e1e4703f6691a229bc9/6816a/hinderlingvolkart_2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAbUqIUIJpdfVqTKMS//EABwQAQADAAIDAAAAAAAAAAAAAAEAAhEDEBIhMf/aAAgBAQABBQIsS29aTzmWY1ZwIxPeTDX7/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/AUmz/8QAHBAAAQMFAAAAAAAAAAAAAAAAAAERIQIQICJB/9oACAEBAAY/Aru6DHTamCUnH//EAB4QAQACAQQDAAAAAAAAAAAAAAEAEVEQIXGBMWGh/9oACAEBAAE/IUFPXqDKI3LK2HM5p59jqN+JjoOUogWiMRK1Gl//2gAMAwEAAgADAAAAEPsljv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEBH/2gAIAQMBAT8QG4wZ/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxAMG0//xAAeEAEAAgICAwEAAAAAAAAAAAABABEhMUFRYXGRwf/aAAgBAQABPxAHWVti4Ni1e8TrI0NAuaZxoi2yNq9am94lShQ0HFz3iAC9jsPP5Ofb7Y3Z+QCCQc1DnP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Arbeitsplätze&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/e92a5061bba76e1e4703f6691a229bc9/f3a32/hinderlingvolkart_2.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/e92a5061bba76e1e4703f6691a229bc9/6ba01/hinderlingvolkart_2.jpg 175w,
+/walz.alexanderboenninger/static/e92a5061bba76e1e4703f6691a229bc9/b8ff8/hinderlingvolkart_2.jpg 350w,
+/walz.alexanderboenninger/static/e92a5061bba76e1e4703f6691a229bc9/f3a32/hinderlingvolkart_2.jpg 700w,
+/walz.alexanderboenninger/static/e92a5061bba76e1e4703f6691a229bc9/61d28/hinderlingvolkart_2.jpg 1050w,
+/walz.alexanderboenninger/static/e92a5061bba76e1e4703f6691a229bc9/6816a/hinderlingvolkart_2.jpg 1125w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Klangwerke und Suppe]]></title><description><![CDATA[import Gallery from ‘gatsby-theme-signalwerk/src/components/Gallery’; Gitarrenbauer Ermanno Chiavi Nicht nur die Arbeit, sondern auch die…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/klangwerke/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/klangwerke/</guid><pubDate>Sun, 25 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Gallery from ‘gatsby-theme-signalwerk/src/components/Gallery’;&lt;/p&gt;
+&lt;h2&gt;Gitarrenbauer Ermanno Chiavi&lt;/h2&gt;
+&lt;p&gt;Nicht nur die Arbeit, sondern auch die Muse soll in Zürich gestärkt werden und so sind wir heute in die riesige Atelier-Gemeinschaft an der &lt;a href=&quot;http://gleis70.ch/&quot;&gt;Hermetschloostrasse 70&lt;/a&gt; gefahren. Zuerst hat uns &lt;a href=&quot;http://www.chiaviguitars.com/&quot;&gt;Ermanno Chiavi&lt;/a&gt; in seiner Werkstatt einen Einblick in seine Arbeit als Gitarrenbauer gegeben. Er hat uns gezeigt, wie er in liebevoller Handarbeit in über 100 Stunden arbeit eine Gitarre zum klingen bringt. Erstaundlich fand ich auch, dass trotz dem Handwerk er modernste akustische Instrumente hat, die ihm helfen auf der Suche nach dem «richtigen Klang» eine Ohr-Breite näher dran zu sein.&lt;/p&gt;
+&lt;h2&gt;Konzert von Jure Cerkovnik&lt;/h2&gt;
+&lt;p&gt;Danach gings in die Dachkantine. Dort wurde uns in einem Konzert vom slovenischen Gitarrist &lt;a href=&quot;http://jurecerkovnik.com/&quot;&gt;Jure Cerkovnik&lt;/a&gt; gezeigt, was aus der liebevollen Arbeit von Ermanno durch den Musiker entstehen kann. Im «Werkstattkonzert» lauschten viele Leute, die für den jungen Musiker extra angereist sind.&lt;/p&gt;
+&lt;Gallery&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/d92216dd9b25a44e618d88dbd123ecea/6dab7/11_180045_us_2063_hires.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.68%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAcq1CW0Mign/xAAYEAEAAwEAAAAAAAAAAAAAAAABABASEf/aAAgBAQABBQLZHgUuq//EABYRAQEBAAAAAAAAAAAAAAAAAAASAf/aAAgBAwEBPwGcQ//EABYRAQEBAAAAAAAAAAAAAAAAAAATAf/aAAgBAgEBPwGmqP/EABgQAAIDAAAAAAAAAAAAAAAAABARAAEh/9oACAEBAAY/AlKZ0f/EABgQAQEBAQEAAAAAAAAAAAAAAAERIQAQ/9oACAEBAAE/IQNOXepEaXlHSeOry9//2gAMAwEAAgADAAAAEAfv/8QAFxEBAAMAAAAAAAAAAAAAAAAAABEhcf/aAAgBAwEBPxCqGn//xAAXEQEAAwAAAAAAAAAAAAAAAAAAESFx/9oACAECAQE/ELZZf//EABsQAQEAAwADAAAAAAAAAAAAAAERACExEEFR/9oACAEBAAE/EEhmh+Mkb5qMvMh1D7PBxCgBCawRxc//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/d92216dd9b25a44e618d88dbd123ecea/f3a32/11_180045_us_2063_hires.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/d92216dd9b25a44e618d88dbd123ecea/6ba01/11_180045_us_2063_hires.jpg 175w,
+/walz.alexanderboenninger/static/d92216dd9b25a44e618d88dbd123ecea/b8ff8/11_180045_us_2063_hires.jpg 350w,
+/walz.alexanderboenninger/static/d92216dd9b25a44e618d88dbd123ecea/f3a32/11_180045_us_2063_hires.jpg 700w,
+/walz.alexanderboenninger/static/d92216dd9b25a44e618d88dbd123ecea/61d28/11_180045_us_2063_hires.jpg 1050w,
+/walz.alexanderboenninger/static/d92216dd9b25a44e618d88dbd123ecea/be74e/11_180045_us_2063_hires.jpg 1400w,
+/walz.alexanderboenninger/static/d92216dd9b25a44e618d88dbd123ecea/bf62f/11_180045_us_2063_hires.jpg 2100w,
+/walz.alexanderboenninger/static/d92216dd9b25a44e618d88dbd123ecea/6dab7/11_180045_us_2063_hires.jpg 2500w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/b12077c9ce930c53b70d5d917d2d30af/6dab7/23_180045_us_2190_hires.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.68%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBP/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAATlEShxc8v8A/8QAGxAAAwACAwAAAAAAAAAAAAAAAQIDAAQREhP/2gAIAQEAAQUCQ9Gq4rTxqMCKRtkzxrNz/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQMBAT8BR//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwFlf//EABsQAAIDAAMAAAAAAAAAAAAAAAABAhESEDJR/9oACAEBAAY/AlZleFKaOqIYdcf/xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhQXGR/9oACAEBAAE/IX6iVoj2q+uj0ivYa1hqCk2Lcaqf/9oADAMBAAIAAwAAABDY3//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEUH/2gAIAQMBAT8QGc9v/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxBNYTuX/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBUYGR/9oACAEBAAE/EEEtFgz5FPrlVCrVPLJSAhxgz1UW3FZU3GQAgYdOj5D9GAt8k//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/b12077c9ce930c53b70d5d917d2d30af/f3a32/23_180045_us_2190_hires.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/b12077c9ce930c53b70d5d917d2d30af/6ba01/23_180045_us_2190_hires.jpg 175w,
+/walz.alexanderboenninger/static/b12077c9ce930c53b70d5d917d2d30af/b8ff8/23_180045_us_2190_hires.jpg 350w,
+/walz.alexanderboenninger/static/b12077c9ce930c53b70d5d917d2d30af/f3a32/23_180045_us_2190_hires.jpg 700w,
+/walz.alexanderboenninger/static/b12077c9ce930c53b70d5d917d2d30af/61d28/23_180045_us_2190_hires.jpg 1050w,
+/walz.alexanderboenninger/static/b12077c9ce930c53b70d5d917d2d30af/be74e/23_180045_us_2190_hires.jpg 1400w,
+/walz.alexanderboenninger/static/b12077c9ce930c53b70d5d917d2d30af/bf62f/23_180045_us_2190_hires.jpg 2100w,
+/walz.alexanderboenninger/static/b12077c9ce930c53b70d5d917d2d30af/6dab7/23_180045_us_2190_hires.jpg 2500w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/d445760343c826444b09d143f0364c7c/6dab7/25_180045_us_2224_hires.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABScl0IsO4X//EABoQAQADAAMAAAAAAAAAAAAAAAIAAQMREyL/2gAIAQEAAQUCOlGdzIe5gXFXt4Lzuv/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB4QAAICAQUBAAAAAAAAAAAAAAABAhEhEyJBUWGB/9oACAEBAAY/AkO5c4FtbweicoqV9l6SX0//xAAaEAACAwEBAAAAAAAAAAAAAAABEQAhMUGR/9oACAEBAAE/IbmDVkvdqXIBoCWwo4iM9jpB8ExXe5J5dI//2gAMAwEAAgADAAAAEODP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAwEBPxBKimH/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAECAQE/EG5hUf/EABwQAQACAwADAAAAAAAAAAAAAAERIQAxQWGBsf/aAAgBAQABPxCgy6Z6A28mGmPjTJWya5gNRk1rq+8aOBCAQ3s7iBWKFM2TJGRJMbFD5n//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pictures&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/d445760343c826444b09d143f0364c7c/f3a32/25_180045_us_2224_hires.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/d445760343c826444b09d143f0364c7c/6ba01/25_180045_us_2224_hires.jpg 175w,
+/walz.alexanderboenninger/static/d445760343c826444b09d143f0364c7c/b8ff8/25_180045_us_2224_hires.jpg 350w,
+/walz.alexanderboenninger/static/d445760343c826444b09d143f0364c7c/f3a32/25_180045_us_2224_hires.jpg 700w,
+/walz.alexanderboenninger/static/d445760343c826444b09d143f0364c7c/61d28/25_180045_us_2224_hires.jpg 1050w,
+/walz.alexanderboenninger/static/d445760343c826444b09d143f0364c7c/be74e/25_180045_us_2224_hires.jpg 1400w,
+/walz.alexanderboenninger/static/d445760343c826444b09d143f0364c7c/bf62f/25_180045_us_2224_hires.jpg 2100w,
+/walz.alexanderboenninger/static/d445760343c826444b09d143f0364c7c/6dab7/25_180045_us_2224_hires.jpg 2500w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/Gallery&gt;
+&lt;p&gt;Die Fotos wurden uns freundlicherweise von &lt;a href=&quot;http://www.uelisteingruber.ch/&quot;&gt;Ueli Steingruber&lt;/a&gt; zur Verfügung gestellt. Danke!&lt;/p&gt;
+&lt;h2&gt;Vor-Vernissage klangwerke&lt;/h2&gt;
+&lt;p&gt;Doch nicht genug der schönen Dinge! Zu guter letzt hat uns Matthias Schwyn von &lt;a href=&quot;https://klangwerke.ch/&quot;&gt;Klangwerk&lt;/a&gt; sein neuestes Buch vorgestellt. In diesem zeigt er die Arbeit des Gitarrenbauer aber auch die Geschichte der Gitare exemplarisch an Ermannos Werkstätte. Die liebevolle Gestatlung durch Matthias ist genau so gelungen wie die Fotos von &lt;a href=&quot;http://www.uelisteingruber.ch/&quot;&gt;Ueli Steingruber &lt;/a&gt;, der uns auch die Fotos zu diesem Blog freundlicherweise zur Verfügung gestellt hat. Zum schmöckern im Buch wurde uns eine leckere Suppe gereicht und so konnte der Sonntagabend gemütlich ausklingen.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Vortrag bei Interaction Designern]]></title><description><![CDATA[Interaction Design und Walz? Genau so ungewöhnlich wie für ein Grafiker im 21. Jahrhundert ist es für Interaction Designern auf eine Walz zu…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/vortrag-interaction-designer/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/vortrag-interaction-designer/</guid><pubDate>Fri, 23 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Interaction Design und Walz?&lt;/h2&gt;
+&lt;p&gt;Genau so ungewöhnlich wie für ein Grafiker im 21. Jahrhundert ist es für Interaction Designern auf eine Walz zu gehen. Dennoch hat Stefan im Modul «OpenSource and Communities» bei der höheren Fachschule Interaction Design einen Platz für Alex eingeplant und heute hat nun also der in Zürich haltende Wandergeselle zur Klasse gesprochen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/7733db300a65a214f091614cc15011c3/157a9/Seite_1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAUzV80iFVP8A/8QAGxAAAQUBAQAAAAAAAAAAAAAAAwABAhESBCP/2gAIAQEAAQUC6I7YI/RGrI3qa//EABcRAAMBAAAAAAAAAAAAAAAAABATFCP/2gAIAQMBAT8BsVmP/8QAFxEAAwEAAAAAAAAAAAAAAAAAEBESIf/aAAgBAgEBPwGHo//EABsQAAEEAwAAAAAAAAAAAAAAAAEAEBIhAiJh/9oACAEBAAY/AoxPCtsTTW//xAAaEAEAAgMBAAAAAAAAAAAAAAABESEAEDFB/9oACAEBAAE/IeiUsCcmDFXA90EbTNQ5bPuv/9oADAMBAAIAAwAAABAfz//EABoRAAAHAAAAAAAAAAAAAAAAABAhQVFhofH/2gAIAQMBAT8QOmrbQf/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EEOP/8QAGxABAAIDAQEAAAAAAAAAAAAAAREhABBRQYH/2gAIAQEAAT8QKsKph44zAiM2RcOigKyYX8wAkijffXuv/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Titelseite&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/7733db300a65a214f091614cc15011c3/f3a32/Seite_1.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/7733db300a65a214f091614cc15011c3/6ba01/Seite_1.jpg 175w,
+/walz.alexanderboenninger/static/7733db300a65a214f091614cc15011c3/b8ff8/Seite_1.jpg 350w,
+/walz.alexanderboenninger/static/7733db300a65a214f091614cc15011c3/f3a32/Seite_1.jpg 700w,
+/walz.alexanderboenninger/static/7733db300a65a214f091614cc15011c3/61d28/Seite_1.jpg 1050w,
+/walz.alexanderboenninger/static/7733db300a65a214f091614cc15011c3/be74e/Seite_1.jpg 1400w,
+/walz.alexanderboenninger/static/7733db300a65a214f091614cc15011c3/157a9/Seite_1.jpg 1500w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Die grafisch liebevoll gestlatete Präsentation wurde von den Studierenden später sehr lobend erwähnt.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/6a85e6cc19f61dc069ca1c58a6357134/157a9/Seite_2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAa8b5Tqg/8QAGhAAAgIDAAAAAAAAAAAAAAAAAgMAAQQTI//aAAgBAQABBQLJvqhhbI1Vna0GLp//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAABBAMAAAAAAAAAAAAAAAABAAIQEUFhcf/aAAgBAQAGPwIcQFncWEHYj//EABsQAQACAgMAAAAAAAAAAAAAAAEAEBExIWFx/9oACAEBAAE/IUDFOns5/hUDRFjIaY0AC53X/9oADAMBAAIAAwAAABDzz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQEAAgIDAAAAAAAAAAAAAAERABAhMVHR8P/aAAgBAQABPxB/dC1BKuUORiQ+mnDQHkje8W9FAF5Pev/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Geschichte&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/6a85e6cc19f61dc069ca1c58a6357134/f3a32/Seite_2.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/6a85e6cc19f61dc069ca1c58a6357134/6ba01/Seite_2.jpg 175w,
+/walz.alexanderboenninger/static/6a85e6cc19f61dc069ca1c58a6357134/b8ff8/Seite_2.jpg 350w,
+/walz.alexanderboenninger/static/6a85e6cc19f61dc069ca1c58a6357134/f3a32/Seite_2.jpg 700w,
+/walz.alexanderboenninger/static/6a85e6cc19f61dc069ca1c58a6357134/61d28/Seite_2.jpg 1050w,
+/walz.alexanderboenninger/static/6a85e6cc19f61dc069ca1c58a6357134/be74e/Seite_2.jpg 1400w,
+/walz.alexanderboenninger/static/6a85e6cc19f61dc069ca1c58a6357134/157a9/Seite_2.jpg 1500w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Nebst einer kurzen Präsentation der bisherigen Arbeitsstationen von Alex war die Präsentation auch mit geschichtlichen Infos zur Walz ausgebaut.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/dc49f7808b357110f8749b227b575c15/157a9/Seite_3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUBBP/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAabefJ0RZ//EABgQAQEBAQEAAAAAAAAAAAAAAAIBAzEA/9oACAEBAAEFAmlFNTfHjCqODmp5/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxIhgf/aAAgBAwEBPwGrblnwZ//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhEhMf/aAAgBAgEBPwGbdYR5p//EABoQAAEFAQAAAAAAAAAAAAAAABEAARASISL/2gAIAQEABj8CcOqnqMCtgj//xAAaEAACAwEBAAAAAAAAAAAAAAAAAREhMUFh/9oACAEBAAE/IVFCTmMsHd0ejS+j6I1Y/9oADAMBAAIAAwAAABBs7//EABgRAQADAQAAAAAAAAAAAAAAAAEAETGB/9oACAEDAQE/ELmVAdTTP//EABkRAAMAAwAAAAAAAAAAAAAAAAABETFB8P/aAAgBAgEBPxCold7BU7Q//8QAGxABAQEBAQADAAAAAAAAAAAAAREAIUExUYH/2gAIAQEAAT8QcgIQ5PjWV9iVbPfrNqqt9w13/W7diQ66OgxG7//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Zukunft&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/dc49f7808b357110f8749b227b575c15/f3a32/Seite_3.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/dc49f7808b357110f8749b227b575c15/6ba01/Seite_3.jpg 175w,
+/walz.alexanderboenninger/static/dc49f7808b357110f8749b227b575c15/b8ff8/Seite_3.jpg 350w,
+/walz.alexanderboenninger/static/dc49f7808b357110f8749b227b575c15/f3a32/Seite_3.jpg 700w,
+/walz.alexanderboenninger/static/dc49f7808b357110f8749b227b575c15/61d28/Seite_3.jpg 1050w,
+/walz.alexanderboenninger/static/dc49f7808b357110f8749b227b575c15/be74e/Seite_3.jpg 1400w,
+/walz.alexanderboenninger/static/dc49f7808b357110f8749b227b575c15/157a9/Seite_3.jpg 1500w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Und auch ein Blick nach Vorne wurde nicht vergessen!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[the printer's terms! – wireframing]]></title><description><![CDATA[Der Blick von außen. Stefan arbeitet schon einige Zeit an der Idee, das nur noch antiquarisch erhältliche Buch «the printer’s terms» von…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/printers-terms-wireframing/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/printers-terms-wireframing/</guid><pubDate>Thu, 22 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Der Blick von außen.&lt;/h2&gt;
+&lt;p&gt;Stefan arbeitet schon einige Zeit an der Idee, das nur noch antiquarisch erhältliche Buch «the printer’s terms» von Rudolf Hostettler zu digitalisieren. Anders als bei den meisten Lexika, arbeitet dieses Werk in 5 Sprachen, nämlich Englisch, Deutsch, Französisch, Italienisch, und Niederländisch.
+Heute haben wir die skizzierten Überlegungen von Alex der letzten Tage besprochen und auf Umsetzbarkeit und Sinnhaftigkeit angeschaut.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/ea67c1a711e143871f3ae28147301bb8/8a534/IMG_9971_ab.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAGwzxyrTnJdVVtI1IE//8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIRAAMQEgQhIv/aAAgBAQABBQII70YVOsXFVw66NuCJ2MCuMfK4/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAgIDAQAAAAAAAAAAAAAAABEBEAIScTH/2gAIAQEABj8Ceq6KXjy1kLYcV4TF/wD/xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUFRgWFxkf/aAAgBAQABPyHMF8JcszyqNnDflCMpN6eIzVdwMaxLJsIU6HqI2MDiCXP/2gAMAwEAAgADAAAAEHvIsf/EABkRAAIDAQAAAAAAAAAAAAAAAAABECExUf/aAAgBAwEBPxBPpQsj/8QAGhEAAgIDAAAAAAAAAAAAAAAAABEBECExUf/aAAgBAgEBPxBcMk7Vf//EAB0QAQEBAQACAwEAAAAAAAAAAAERACExQVFxgbH/2gAIAQEAAT8QsxjSCvrJ10D2yu7hF7SX9dSznO5Ff7Dj9MhTnSpTd+xB7HWAp8unCo9of7lsnhfF84gk5dR4d//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Skizzen&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/ea67c1a711e143871f3ae28147301bb8/f3a32/IMG_9971_ab.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/ea67c1a711e143871f3ae28147301bb8/6ba01/IMG_9971_ab.jpg 175w,
+/walz.alexanderboenninger/static/ea67c1a711e143871f3ae28147301bb8/b8ff8/IMG_9971_ab.jpg 350w,
+/walz.alexanderboenninger/static/ea67c1a711e143871f3ae28147301bb8/f3a32/IMG_9971_ab.jpg 700w,
+/walz.alexanderboenninger/static/ea67c1a711e143871f3ae28147301bb8/61d28/IMG_9971_ab.jpg 1050w,
+/walz.alexanderboenninger/static/ea67c1a711e143871f3ae28147301bb8/be74e/IMG_9971_ab.jpg 1400w,
+/walz.alexanderboenninger/static/ea67c1a711e143871f3ae28147301bb8/bf62f/IMG_9971_ab.jpg 2100w,
+/walz.alexanderboenninger/static/ea67c1a711e143871f3ae28147301bb8/8a534/IMG_9971_ab.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/0bf24f03cb4005067aa3692f2ba920ad/8a534/IMG_9973_ab.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABzq1iwNkqTSV3Qj//xAAbEAADAQEAAwAAAAAAAAAAAAABAgMAEQQQEv/aAAgBAQABBQIV5jQfJ8jLGfDCWMk6lRmumNk6YTzKo9f/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAXEQADAQAAAAAAAAAAAAAAAAAAEBES/9oACAECAQE/AYZKv//EABwQAAICAwEBAAAAAAAAAAAAAAABAjISIZFBMf/aAAgBAQAGPwJ5TyQ5J/PDRuK4ViVRZdLx6WRRGoo84f/EAB4QAQACAQQDAAAAAAAAAAAAAAEAETEQQZHBUWGh/9oACAEBAAE/Ib1Ha8ylC9zLDEE49RVuClbqIdHygynVOZFuHSiOccE//9oADAMBAAIAAwAAABA74U//xAAYEQACAwAAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxBM0qP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8Qs1hhr//EACEQAQACAgEDBQAAAAAAAAAAAAEAESFBYTFRcYGhscHw/9oACAEBAAE/EK7k+GHnCuIy52sGjJnn2lSAC6eremCkOUPqNsI95Dyk4waCV1RKPwiNaJ4Y8gG3vL6j6WMKBH41P//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Gestaltungsansatz in Sketch&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/0bf24f03cb4005067aa3692f2ba920ad/f3a32/IMG_9973_ab.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/0bf24f03cb4005067aa3692f2ba920ad/6ba01/IMG_9973_ab.jpg 175w,
+/walz.alexanderboenninger/static/0bf24f03cb4005067aa3692f2ba920ad/b8ff8/IMG_9973_ab.jpg 350w,
+/walz.alexanderboenninger/static/0bf24f03cb4005067aa3692f2ba920ad/f3a32/IMG_9973_ab.jpg 700w,
+/walz.alexanderboenninger/static/0bf24f03cb4005067aa3692f2ba920ad/61d28/IMG_9973_ab.jpg 1050w,
+/walz.alexanderboenninger/static/0bf24f03cb4005067aa3692f2ba920ad/be74e/IMG_9973_ab.jpg 1400w,
+/walz.alexanderboenninger/static/0bf24f03cb4005067aa3692f2ba920ad/bf62f/IMG_9973_ab.jpg 2100w,
+/walz.alexanderboenninger/static/0bf24f03cb4005067aa3692f2ba920ad/8a534/IMG_9973_ab.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Zum Buch&lt;/h2&gt;
+&lt;p&gt;In den Jahren 1949 – 1969 (diverse Auflagen) ist im Verlag Zollikofer in St. Gallen ein fünf-sprachiges Fachwörter-Lexikon über berufsspezifische Begriffe der Druckindustrie erschienen. Rudolf Hostettler – der vormalige Redaktor der &lt;a href=&quot;http://www.tm-research-archive.ch/&quot;&gt;«Typografischen Monatsblätter»&lt;/a&gt; – hat in langjähriger akribischer Arbeit die Begriffe zusammengetragen und eine Sammlung geschaffen, die auch einer neuen Generation zugänglich sein sollte.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Alex ist hier!]]></title><description><![CDATA[Jetzt geht’s los Alex ist heute in Zürich angekommen. Das Auto haben wir noch nicht so richtig parkieren können, aber da finden wir bestimmt…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/alex-in-zurich/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/alex-in-zurich/</guid><pubDate>Sat, 17 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Jetzt geht’s los&lt;/h2&gt;
+&lt;p&gt;Alex ist heute in Zürich angekommen. Das Auto haben wir noch nicht so richtig parkieren können, aber da finden wir bestimmt noch was. Aber seine Pflanze und sein Arbeitsplatz ist parat. Montags geht es los #spuckpalme&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/walz.alexanderboenninger/static/51563ff60a0d300fd3182e77eacb5e26/8a534/IMG_9907_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEFBAP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAZS1qHIdQafDOoaZIM//xAAcEAACAwADAQAAAAAAAAAAAAABAgADEhARISP/2gAIAQEAAQUCPKI9rWoanKe7oILVz4zI6yJkT//EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAwEBPwFMr//EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPwFcj//EAB0QAAIBBAMAAAAAAAAAAAAAAAABEBEhMXECMqH/2gAIAQEABj8Cmlls4ptPRdxah29MGI//xAAdEAADAAICAwAAAAAAAAAAAAAAAREhMRBBYXGB/9oACAEBAAE/IaTfLyrROmB3SlQozg2xyHJ8JZ3emeCYLiwHPQUdH//aAAwDAQACAAMAAAAQ0MTO/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oACAEDAQE/ENUin//EABcRAQEBAQAAAAAAAAAAAAAAABEAAVH/2gAIAQIBAT8QNGFh2F//xAAdEAEAAgMAAwEAAAAAAAAAAAABABEhMUFRYXGh/9oACAEBAAE/EGFbRG7Bcpe4he44ZJDcwPxleQk0M1X5KG1FPFyo2isWKPsoxQntB3MBYGYXjfvcsGRDkyUHWTt77n//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;spuckpalme&quot;
+        title=&quot;&quot;
+        src=&quot;/walz.alexanderboenninger/static/51563ff60a0d300fd3182e77eacb5e26/f3a32/IMG_9907_sh.jpg&quot;
+        srcset=&quot;/walz.alexanderboenninger/static/51563ff60a0d300fd3182e77eacb5e26/6ba01/IMG_9907_sh.jpg 175w,
+/walz.alexanderboenninger/static/51563ff60a0d300fd3182e77eacb5e26/b8ff8/IMG_9907_sh.jpg 350w,
+/walz.alexanderboenninger/static/51563ff60a0d300fd3182e77eacb5e26/f3a32/IMG_9907_sh.jpg 700w,
+/walz.alexanderboenninger/static/51563ff60a0d300fd3182e77eacb5e26/61d28/IMG_9907_sh.jpg 1050w,
+/walz.alexanderboenninger/static/51563ff60a0d300fd3182e77eacb5e26/be74e/IMG_9907_sh.jpg 1400w,
+/walz.alexanderboenninger/static/51563ff60a0d300fd3182e77eacb5e26/bf62f/IMG_9907_sh.jpg 2100w,
+/walz.alexanderboenninger/static/51563ff60a0d300fd3182e77eacb5e26/8a534/IMG_9907_sh.jpg 3024w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;First things first&lt;/h2&gt;
+&lt;p&gt;Dinge die Zuerst interessieren;&lt;/p&gt;
+&lt;h3&gt;Work&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Welche Arbeiten machen wir zusammen?&lt;/li&gt;
+&lt;li&gt;Wie ist die Gegenleistung/Kompensation?&lt;/li&gt;
+&lt;li&gt;WiFi und Strom → Internationale Stecker?&lt;/li&gt;
+&lt;li&gt;Schlüssel Arbeitsplatz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Life&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fahrrad → wie bewege ich mich in der Stadt?&lt;/li&gt;
+&lt;li&gt;WiFi@Home&lt;/li&gt;
+&lt;li&gt;Schlüssel für Zuhause&lt;/li&gt;
+&lt;li&gt;Wo gibts einen Supermarkt?&lt;/li&gt;
+&lt;li&gt;Wo gibts eine Prepaid-SIM?&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Karte Zürich]]></title><description><![CDATA[Was muss man in Zürich kennen Supermarkt (Migros & Coop) SIM-Karte (Inter Discount) Arbeitsort/Wohnort Wo das Auto abstellen? https://blog…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/map/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/map/</guid><pubDate>Sat, 17 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Was muss man in Zürich kennen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Supermarkt (Migros &amp;#x26; Coop)&lt;/li&gt;
+&lt;li&gt;SIM-Karte (Inter Discount)&lt;/li&gt;
+&lt;li&gt;Arbeitsort/Wohnort&lt;/li&gt;
+&lt;li&gt;Wo das Auto abstellen?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.webkid.io/making-maps-with-react/&quot;&gt;https://blog.webkid.io/making-maps-with-react/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Wandergesellen in der Schweiz anmelden]]></title><description><![CDATA[tl;dr Wandergesellen müssen  ein Tag vor Arbeitsbeginn  zum Kurzaufenthalt  angemeldet  werden. Zusätzlich muss das  Anmeldeformular für…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/wandergesellen-in-der-schweiz/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/wandergesellen-in-der-schweiz/</guid><pubDate>Tue, 13 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;tl;dr&lt;/h4&gt;
+&lt;p&gt;Wandergesellen müssen &lt;strong&gt;ein Tag vor Arbeitsbeginn&lt;/strong&gt; zum Kurzaufenthalt &lt;a href=&quot;https://meweb.admin.ch/meldeverfahren/&quot;&gt;angemeldet&lt;/a&gt; werden. Zusätzlich muss das &lt;a href=&quot;https://www.steueramt.zh.ch/internet/finanzdirektion/ksta/de/spezialsteuern/quellensteuer/arbeitnehmende_arbeitgebende/formulare_merkblaetter.html&quot;&gt;Anmeldeformular für quellensteuerpflichtige Arbeitnehmende&lt;/a&gt; mindestens &lt;strong&gt;8 Tage nach Arbeitsbeginn&lt;/strong&gt; ausgefült werden.&lt;/p&gt;
+&lt;h2&gt;Quellensteuer I&lt;/h2&gt;
+&lt;h3&gt;Anmelden&lt;/h3&gt;
+&lt;p&gt;Alex kommt schon bald in die Schweiz. Es wird zeit, den Papierkram zu klären. Als ausländischer Arbeiter in Zürich muss ich eine «Quellensteuer I» (QVO I) abführen. Die freundliche Dame vom &lt;a href=&quot;https://www.stadt-zuerich.ch/fd/de/index/steuern/kontakt/quellensteuer_i.html&quot;&gt;Steueramt der Stadt Zürich&lt;/a&gt; hat mich beraten und informierte mich, dass ich das &lt;a href=&quot;https://www.steueramt.zh.ch/internet/finanzdirektion/ksta/de/spezialsteuern/quellensteuer/arbeitnehmende_arbeitgebende/formulare_merkblaetter.html&quot;&gt;Anmeldeformular für quellensteuerpflichtige Arbeitnehmende&lt;/a&gt; ausfüllen soll und gleich an die Gemeinde (also Stadt Zürich senden). Wenn es nicht erst über den Kanton geht, so könne ich innert etwa zwei Wochen mit dem Quellensteuersatz rechnen. So dass ich weiss, was ich von Alex’s Lohn abziehen muss.&lt;/p&gt;
+&lt;h3&gt;Abrechnen&lt;/h3&gt;
+&lt;p&gt;Nach geleisteter Arbeit muss ein &lt;a href=&quot;https://www.steueramt.zh.ch/internet/finanzdirektion/ksta/de/spezialsteuern/quellensteuer/arbeitnehmende_arbeitgebende/formulare_merkblaetter.html&quot;&gt;Abrechnungsformular über die Quellensteuern ausländischer Arbeitnehmer &lt;/a&gt; ausgefüllt werden.&lt;/p&gt;
+&lt;h2&gt;Kurzaufenthalt melden&lt;/h2&gt;
+&lt;p&gt;Zusätzlich muss beim &lt;a href=&quot;https://www.ejpd.admin.ch/ejpd/de/home.html&quot;&gt;Eidgenössisches Justiz- und Polizeidepartement EJPD&lt;/a&gt; für Wandergesellen ein Kurzaufenthalt (bis 90 Tage) gemeldet werden. Über das &lt;a href=&quot;https://meweb.admin.ch/meldeverfahren/&quot;&gt;Online-Tool&lt;/a&gt; lässt sich das relativ einfach machen.&lt;/p&gt;
+&lt;h3&gt;Dank&lt;/h3&gt;
+&lt;p&gt;Merci der &lt;a href=&quot;https://www.broglegmbh.ch/&quot;&gt;Brogle GmbH&lt;/a&gt; die mir mit deren Erfahrung mit Wandergesellen im Bereich der Zimmermannen mit Rat zur Seite stehen konnte.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blog Setup]]></title><description><![CDATA[import Div from ‘gatsby-theme-signalwerk/src/components/Div’; Idee Um die Walz von Alex während seinem Aufenthalt in der Signalwerk GmbH zu…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/blog-setup/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/blog-setup/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Div from ‘gatsby-theme-signalwerk/src/components/Div’;&lt;/p&gt;
+&lt;h2&gt;Idee&lt;/h2&gt;
+&lt;p&gt;Um die Walz von Alex während seinem Aufenthalt in der Signalwerk GmbH zu dokumentieren und gewisse Learnings von uns beiden fest zu halten, habe ich heute eine Blog-Engine aufgesetzt.&lt;/p&gt;
+&lt;h2&gt;Design&lt;/h2&gt;
+&lt;p&gt;Das verwendete System (&lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;gatsby&lt;/a&gt;) hat ganz neu die Möglichkeit so genannte &lt;a href=&quot;https://github.com/gatsbyjs/gatsby/issues/2662&quot;&gt;Themes&lt;/a&gt; zu verwenden. Basierend auf &lt;a href=&quot;https://www.christopherbiscardi.com/&quot;&gt;Christopher Biscardis&lt;/a&gt; &lt;a href=&quot;https://github.com/ChristopherBiscardi/gatsby-theme-examples&quot;&gt;Theme&lt;/a&gt; habe ich das Setup adaptiert und habe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;mein Theme&lt;/a&gt; nun so generalisiert, dass es in mehreren Websites verwendet werden kann. Das Design selber wurde noch nicht gross angepasst. Es  soll später in etwas dem von &lt;a href=&quot;https://logrinto.ch/&quot;&gt;Logrinto&lt;/a&gt; entsprechen.&lt;/p&gt;
+&lt;h2&gt;Technik&lt;/h2&gt;
+&lt;p&gt;Um das ganze technisch möglichst unkompliziert zu halten, habe ich &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;gatsby&lt;/a&gt; verwendet. Nun kann Alex und ich in einem &lt;a href=&quot;https://github.com/signalwerk/walz.alexanderboenninger&quot;&gt;GitHub-Repository&lt;/a&gt; jeweils einzelne &lt;a href=&quot;https://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown-Files&lt;/a&gt; erstellen und der Webservice &lt;a href=&quot;https://travis-ci.org/&quot;&gt;Travis CI&lt;/a&gt; macht dann aus meinem Setup und dem Inhalt eine &lt;a href=&quot;https://signalwerk.github.io/walz.alexanderboenninger/&quot;&gt;Website&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Status&lt;/h3&gt;
+&lt;p&gt;Ob das System gerade eine neue Website erstellt kann man hier sehen;&lt;/p&gt;
+&lt;Div className=&apos;col2of12&apos;&gt;
+&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/signalwerk/walz.alexanderboenninger&quot;&gt;&lt;img src=&quot;https://travis-ci.org/signalwerk/walz.alexanderboenninger.svg?branch=master&quot; alt=&quot;Build Status&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/example/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/example/</guid><pubDate>Sat, 11 Nov 2017 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+right at the coast of the Semantics, a large language ocean. A small river named
+Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
+&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
+Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
+didn’t listen. She packed her seven versalia, put her initial into the belt and
+made herself on the way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This however showed weasel&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Well uncritical so misled&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;this is very interesting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
+view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
+&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
+Lane. Pityful a rethoric question ran over her cheek, then she continued her
+way. On her way she met a copy.&lt;/p&gt;
+&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
+&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
+few insidious Copy Writers ambushed her, made her drunk with
+&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
+they abused her for their projects again and again. And if she hasn’t been
+rewritten, then they are still using her.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
+mouth. Even the all-powerful Pointing has no control about the blind texts it is
+an almost unorthographic life One day however a small line of blind text by the
+name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
+&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
+Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
+didn’t listen. She packed her seven versalia, put her initial into the belt and
+made herself on the way.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;So baboon this&lt;/li&gt;
+&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
+&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
+&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
+impassive fruitlessly shut&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
+back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
+Village and the subline of her own road, the Line Lane. Pityful a rethoric
+question ran over her cheek, then she continued her way. On her way she met a
+copy.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
+been rewritten a thousand times and everything that was left from its origin
+would be the word “and” and the Little Blind Text should turn around and
+return to its own, safe country.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
+few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
+and dragged her into their agency, where they abused her for their projects
+again and again. And if she hasn’t been rewritten, then they are still using
+her. Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts.&lt;/p&gt;
+&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
+&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
+large language ocean. A small river named Duden flows by their place and
+supplies it with the necessary regelialia. It is a paradisematic country, in
+which roasted parts of sentences fly into your mouth.&lt;/p&gt;
+&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
+almost unorthographic life One day however a small line of blind text by the
+name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
+advised her not to do so, because there were thousands of bad Commas, wild
+Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
+&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
+&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
+the way. When she reached the first hills of the Italic Mountains, she had a
+last view back on the skyline of her hometown Bookmarksgrove, the headline of
+Alphabet Village and the subline of her own road, the Line Lane. Pityful a
+rethoric question ran over her cheek, then she continued her way. On her way she
+met a copy.&lt;/p&gt;
+&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
+&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
+been rewritten a thousand times and everything that was left from its origin
+would be the word “and” and the Little Blind Text should turn around and return
+to its own, safe country. But nothing the copy said could convince her and so it
+didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
+with Longe and Parole and dragged her into their agency, where they abused her
+for their projects again and again.&lt;/p&gt;</content:encoded></item></channel></rss>
